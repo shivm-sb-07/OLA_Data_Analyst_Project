@@ -1,11 +1,13 @@
-![Screenshot (141)](https://github.com/user-attachments/assets/079ae932-2fdb-4ad5-88ee-36bb53a2c64f)
 
-The OLA Data Analyst Project focuses on analyzing ride service data to derive actionable insights and present them effectively using Power BI dashboards. This project aims to enhance business decision-making by visualizing critical metrics such as ride patterns, revenue trends, customer behavior, and driver performance. The dashboards offer an interactive, real-time view of the key performance indicators (KPIs) to enable strategic planning and operational efficiency for OLA.
+![Screenshot (148)](https://github.com/user-attachments/assets/1a38e98e-6f65-4810-95c2-b51c7d6d1073)
+
+
+The Rapido's Data Analyst Project focuses on analyzing ride service data to derive actionable insights and present them effectively using Power BI dashboards. This project aims to enhance business decision-making by visualizing critical metrics such as ride patterns, revenue trends, customer behavior, and driver performance. The dashboards offer an interactive, real-time view of the key performance indicators (KPIs) to enable strategic planning and operational efficiency for Rapido.
 
 ## Features
 
 1. Objective:
-     - Analyze OLA's ride service data for performance insights.
+     - Analyze Rapido's ride service data for performance insights.
      - Develop dashboards to track metrics such as revenue, bookings, peak hours, and customer satisfaction.
 
 2. Tools and Technologies:
@@ -39,12 +41,13 @@ The OLA Data Analyst Project focuses on analyzing ride service data to derive ac
 
 ## Screenshots
 
- ![Screenshot (136)](https://github.com/user-attachments/assets/af17a525-0beb-4fd7-89c7-49b37d270c9d)
+![Screenshot (142)](https://github.com/user-attachments/assets/2bcb1ff3-8f9c-4248-a274-c2e49f032def)
 
- ![Screenshot (137)](https://github.com/user-attachments/assets/60451300-9c7d-4c0d-9e54-84be26e1d532)
+![Screenshot (143)](https://github.com/user-attachments/assets/a784f4ff-eb2e-4137-be9b-e6ac8c0139ce)
 
- ![Screenshot (138)](https://github.com/user-attachments/assets/1b9c3521-f310-4293-8fdc-505ecce33956)
+![Screenshot (144)](https://github.com/user-attachments/assets/dd0400f3-a6c2-4aeb-8fa9-9de6ce729179)
 
- ![Screenshot (134)](https://github.com/user-attachments/assets/c0f504c9-8b77-4a55-9b6a-0f98c4b8ff39)
+![Screenshot (145)](https://github.com/user-attachments/assets/7b4e05f4-4d78-4b2a-8b1c-25597063915b)
 
- ![Screenshot (135)](https://github.com/user-attachments/assets/2d6dc78c-b258-422a-bf74-237dae6fd0eb)
+ ![Screenshot (146)](https://github.com/user-attachments/assets/f5b9a7ea-2fa5-4b84-9cb8-54bc450d0586)
+
