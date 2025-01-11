@@ -1,6 +1,7 @@
 
 ![Screenshot (148)](https://github.com/user-attachments/assets/1a38e98e-6f65-4810-95c2-b51c7d6d1073)
 
+##
 
 The Rapido's Data Analyst Project focuses on analyzing ride service data to derive actionable insights and present them effectively using Power BI dashboards. This project aims to enhance business decision-making by visualizing critical metrics such as ride patterns, revenue trends, customer behavior, and driver performance. The dashboards offer an interactive, real-time view of the key performance indicators (KPIs) to enable strategic planning and operational efficiency for Rapido.
 
